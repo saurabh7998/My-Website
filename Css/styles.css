@@ -1,0 +1,173 @@
+#top-container {
+    padding: 5% 7%;
+    /* background-color: #f05945; */
+    background-color: #f9d56e;
+    text-align: center;
+}
+
+
+/* .navbar {
+    padding-bottom: 10%;
+} */
+
+.nav-item {
+    padding-right: 18px;
+}
+
+.cs-img {
+    width: 70%;
+    border-radius: 50%;
+}
+
+h1 {
+    margin-top: 10%;
+    /* text-align: center; */
+    color: #fff;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+    color: rgb(155, 155, 155);
+}
+
+hr {
+    border-style: dotted;
+    border-color: rgb(170, 178, 180);
+    border-bottom: 0;
+    border-width: 2px;
+    width: 10%;
+    margin-left: 45%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+/* Middle container */
+
+#middle-container {
+    text-align: center;
+    /* background-color: #f7f3e9; */
+    /* background-color: #d8e3e7; */
+    background-color: #f0ece3;
+    padding-bottom: 1px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+
+.bio-line {
+    font-family: 'Montez', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.bio {
+    padding-top: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.myImg {
+    padding-top: 7%;
+    width: 20%;
+    padding-bottom: 2%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+}
+
+.skills-img {
+    width: 20%;
+    float: right;
+    margin-left: 18%;
+}
+
+.music-img {
+    width: 20%;
+    float: left;
+    margin-right: 18%;
+}
+
+.movie-img {
+    width: 20%;
+    float: right;
+    margin-left: 18%;
+}
+
+.work-exp-row {
+    margin: 100px auto 150px auto;
+    text-align: center;
+}
+
+.pune-uni-logo {
+    width: 70%;
+    border-radius: 50%;
+}
+
+.cognizant-logo {
+    width: 35%;
+    border-radius: 50%;
+}
+
+.trio-logo {
+    width: 35%;
+    border-radius: 50%;
+}
+
+.neu-logo {
+    width: 82%;
+    padding-bottom: 36px;
+}
+
+.contact-me {
+    margin-top: 10%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+    color: rgb(155, 155, 155);
+}
+
+
+/* Bottom Container */
+
+#bottom-container {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    /* background-color: #f05945; */
+    background-color: #c7b198;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+.footer-link {
+    padding-right: 20px;
+}
+
+.copyright {
+    margin-top: 20px;
+}
+
+.fa-linkedin {
+    padding-right: 5px;
+}
+
+.fa-instagram {
+    padding-right: 5px;
+}
+
+.facebook-square {
+    padding-right: 5px;
+}
